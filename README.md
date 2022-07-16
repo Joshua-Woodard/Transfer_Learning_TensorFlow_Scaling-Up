@@ -3,7 +3,7 @@ Jupyter Notebook created alongside course study for Transfer Learning in TensorF
 
 
 ## What it covers:
-* Adding more classes
+* Adding more classes from previous notebook (Transfer_Learning_TensorFlow_Fine_Tuning)
 * Fine tuning new model created from more classes
 * Make predictions
 * Evaluate results
